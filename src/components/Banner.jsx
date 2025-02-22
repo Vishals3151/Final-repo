@@ -10,8 +10,8 @@ function Home() {
 <button className="btn btn-primary w-24 md:max-w-screen-2xl hover:bg-green-600"><a href="">Join</a></button>
     </div>
     </div>
-    <div className=' w-full md:w-1/2'>
-    <img src="AIML.jpg" alt="" className='w-30  md:max-w-xl md:ml-20 mt-20' />
+    <div className=' w-5/12 hover:shadow-2xl hover:shadow-blue-400 duration-300 mt-24'>
+    <img src="front.jpg" alt=""  />
     </div>
    </div>
    </>

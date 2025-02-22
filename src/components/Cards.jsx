@@ -4,7 +4,7 @@ function Cards({ item }) {
     console.log(item);
     return (
         <>
-            <div className="card bg-base-100 w-56 md:w-96 m-4 shadow-xl dark:bg-slate-900 dark:text-white">
+            <div className="card bg-base-100 w-56 md:w-96 m-4 shadow-xl dark:bg-slate-900 dark:text-white hover:shadow-2xl hover:shadow-blue-400 duration-300">
     <div className="card-body">
         <h2 className="card-title hover:text-2xl duration-300">{item.username}</h2>
         <p className=''>{item.content}</p>

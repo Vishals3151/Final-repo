@@ -37,9 +37,9 @@ function Nav() {
       <li>
           <a href='/course'>Career Openings</a>
       </li>
-      <li><a href='https://chatting-app-h398.onrender.com/'>Community Buzz</a></li>
+      <li><a href='https://chatting-app-nhrh.onrender.com/'>Community Buzz</a></li>
       <li><a>Creative Corner</a></li>
-      <li><a href='https://forms.visme.co/formsPlayer/n01jp9x7-contact-form'>Contact Us</a></li>
+      <li><a href='https://forms.visme.co/formsPlayer/mx04n48j-contact-form'>Contact Us</a></li>
   </>)
   return (
     <div className={`navbar bg-base-100  max-w-screen-2xl container mx-auto md:px-20 px-4 fixed z-50 dark:bg-slate-900 dark:text-white  ${sticky?" dark:bg-slate-600 dark:text-white duration-100 transition-all ease-in-out shadow-lg":""}` }>
