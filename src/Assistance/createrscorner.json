@@ -3,5 +3,20 @@
      "id":"1",
      "name":"Amey Vyas",
      "pd":"Stock market prediction using LSTM"   
+    },
+    {
+     "id":"2",
+     "name":"Vishal Gaikwad",
+     "pd":"Share market prediction using LSTM"   
+    },
+    {
+     "id":"3",
+     "name":"Ayush Shingate",
+     "pd":"Neural Networks"   
+    },
+    {
+     "id":"2",
+     "name":"Gaurav Hadge",
+     "pd":"Prediction using LSTM"   
     }
 ]
