@@ -4,6 +4,7 @@ import Home from "./Home/Home";
 import Courses from "./Courses/Courses";
 import Contactus from "./Contactus/Contactus";
 import Navbar from "./components/Nav";
+import Creativecorner from "./Creativecorne/Creativecorner";
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/course" element={<Courses />} />
           <Route path="/contactus" element={<Contactus />} />
+          <Route path="/uploads" element={<Creativecorner />} />
         </Routes>
       </div>
     </>

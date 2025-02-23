@@ -38,7 +38,7 @@ function Nav() {
           <a href='/course'>Career Openings</a>
       </li>
       <li><a href='https://chatting-app-nhrh.onrender.com/'>Community Buzz</a></li>
-      <li><a>Creative Corner</a></li>
+      <li><a href='/uploads'>Creative Corner</a></li>
       <li><a href='https://forms.visme.co/formsPlayer/mx04n48j-contact-form'>Contact Us</a></li>
   </>)
   return (
